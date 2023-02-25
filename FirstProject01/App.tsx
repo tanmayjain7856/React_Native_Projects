@@ -6,9 +6,6 @@ function App() {
     <SafeAreaView>
       <View>
         <Text>Hello World !</Text>
-        <Text>Hello World !</Text>
-        <Text>Hello World !</Text>
-        <Text>Hello World !</Text>
       </View>
     </SafeAreaView>
   );
